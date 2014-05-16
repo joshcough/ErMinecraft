@@ -1,0 +1,15 @@
+examples/src/main/resources/
+target/
+out/
+.idea/workspace.xml
+.idea/copyright/
+.lib/
+plugins/
+bukkit/
+.DS_Store
+*.jar
+*.class
+.lein-deps-sum
+.lein-failures
+.lein-plugins
+.ermine_history
